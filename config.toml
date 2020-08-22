@@ -7,7 +7,7 @@ footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "casper3"
-title = "Hugo Themes"
+title = "Home"
 [[menu.main]]
 identifier = "about"
 name = "About"
